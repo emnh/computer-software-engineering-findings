@@ -1,5 +1,9 @@
 # Computer Software Engineering Findings
 
+# EDIT: ChatGPT wins
+
+Verdict: Don't read this article. Go ask ChatGPT your questions instead. Or another suitable AI tool.
+
 # EDIT: I found a verdict
 
 The verdict is that the real world with as broad scope as large scale software development can't as of yet be reliably studied in isolated University studies, so for now the best we can do is use our intuitions about what works best as rational and intelligent people given common arguments for and against different features in programming languages, which boils it down to an aggregation of subjective votes, i.e company politics. If you do want some arguments to rally your cause, look further below:
