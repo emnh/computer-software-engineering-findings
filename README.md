@@ -4,6 +4,7 @@
 This project started out as my attempt to choose an open source project to contribute to, preferably a programming language of global impact.
 The criteria for choosing a project are the impact on the global economy and my own biased and perhaps not entirely rational motivations.
 Since these may be opposed to each other, I started on a journey to discover my own biases and try to uproot any irrational motivations.
+It may be appropriate for me (and you, if you like) to read the Wikipedia article on [rationality](https://en.wikipedia.org/wiki/Rationality) at some point.
 
 # Contribute towards General AI or to an existing impactful programming language
 There is a conflict in my mind whether I should contribute to the development of artificial intelligence, towards its generality, as worked on for example in Google Deepmind. I deem general AI most important and seems to be in line with the times. But on the other hand my motivations and feelings tell me I should contribute to a programming language, which I find easier, and thus more practical to get started hands-on with. I'm not sure I'm sufficiently intelligent, I just have an insecure feeling about it, to contribute towards general AI, which is why I instead set off on a journey to discover the impact of various programming languages on software engineering and thus the economy of the world.
@@ -18,3 +19,10 @@ Given that I want to contribute to an impactful programming language I want to k
 Before we start, is this even the right or all-encompassing question? I think for the industry it is the most relevant one, but it completely omits the impact of psychology in software development. Whether a language is psychologically beneficial to use for a human is a neglected question, as I consider myself more knowledgeable about programming than about psychology. With this "disclaimer" out of the way, I proceed to research which features are useful in differentiating the economical impact of various programming languages.
 
 # Is static typing useful?
+[The article "An empirical study on the impact of software maintainability"](https://www.researchgate.net/publication/259634489_An_empirical_study_on_the_impact_of_static_typing_on_software_maintainability) attempts to answer the question.
+Quoting the conclusion of the article, the answer in my opinion is yes:
+
+> The result of the experiment can be summarized as follows:
+> * Static type systems help humans use a new set of classes: For four of the five programming tasks that required using new classes, the experiment revealed a positive impact of the static type system with respect to development time. For one task, we did not observe any statistically significant difference (possibly due to learning effects).
+> * Static type systems make it easier for humans to fix type errors: For both programming tasks that required fixing a type error, the use of the static type system translates into a statistically significant reduction of development time.
+> * For fixing semantic errors, we observed no differences with respect to development times: For both tasks where a semantic error had to be fixed, we did not observe any statistically significant differences.
