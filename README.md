@@ -2,7 +2,7 @@
 
 # EDIT: I found a verdict
 
-The verdict is that the real world with as broad scope as large scale software development can't as of yet be reliably studied in isolated University studies, so for now the best we can do is use our intuitions about what works best as rational and intelligent people given common arguments for and against different features in programming langauges, which boils it down to an aggregation of subjective votes, i.e company politics. If you do want some arguments to rally your cause, look further below:
+The verdict is that the real world with as broad scope as large scale software development can't as of yet be reliably studied in isolated University studies, so for now the best we can do is use our intuitions about what works best as rational and intelligent people given common arguments for and against different features in programming languages, which boils it down to an aggregation of subjective votes, i.e company politics. If you do want some arguments to rally your cause, look further below:
 
 [Dan Luu quotes an article](https://danluu.com/empirical-pl/) with the conclusive verdict that the choice of programming language is significant but modest compared to other factors. The article he quotes, [A large scale study of programming languages and code quality in github](https://dl.acm.org/doi/10.1145/2635868.2635922) has the following abstract:
 
